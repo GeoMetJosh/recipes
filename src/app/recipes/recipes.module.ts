@@ -14,7 +14,6 @@ import { RecipeItemComponent } from './recipe-list/recipe-item/recipe-item.compo
 import { RecipesRoutingModule } from './recipes-routing.module';
 import { SharedModule } from '../shared/shared.module';
 
-
 @NgModule({
     declarations: [
       RecipesComponent,
